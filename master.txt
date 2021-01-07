@@ -1,3 +1,0 @@
-this is the file from master branch
-the new line
-commit test
